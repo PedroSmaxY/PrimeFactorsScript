@@ -21,5 +21,5 @@ function gerar() {
             primo ++           
         }    
     } while (numero !== 1) 
-    }    
+    }     
 }
