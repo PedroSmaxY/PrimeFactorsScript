@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(2, 132, 172);
+  background-color: rgba(2, 132, 172, 0.966);
   font: normal 20pt Arial;
   color: white;
 }
@@ -7,7 +7,7 @@ header {
   text-align: center;
   font: bold 25pt Arial;
   margin-top: 200px;
-  margin-bottom: 50px;
+  margin-bottom: 25px;
 }
 .bloco {
   background-color: white;

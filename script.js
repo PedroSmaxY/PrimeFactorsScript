@@ -1,4 +1,4 @@
-function gerar() {
+function gerarFatores() {
   let valor = window.document.querySelector("#txtn");
   let numero = Number(valor.value);
   let lista = window.document.querySelector("div#res ul");
