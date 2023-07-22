@@ -1,4 +1,4 @@
-# FatoresPrimosJavaScript
+# PrimeFactorsScript
 Initial menu:
 
 ![image](https://github.com/PedroSmaxY/FatoresPrimosJavaScript/assets/127573080/f26b9303-658f-45df-b498-abf42613dc4f)
