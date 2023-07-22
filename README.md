@@ -1,8 +1,9 @@
 # PrimeFactorsScript
 Initial menu:
 
-![image](https://github.com/PedroSmaxY/FatoresPrimosJavaScript/assets/127573080/f26b9303-658f-45df-b498-abf42613dc4f)
+![image](https://github.com/PedroSmaxY/PrimeFactorsScript/assets/127573080/8a620429-6a81-4168-921d-cf93361f867c)
 
 result:
 
-![image](https://github.com/PedroSmaxY/FatoresPrimosJavaScript/assets/127573080/5a83f0cc-2ff6-4d1c-b4de-a60848b08533)
+![image](https://github.com/PedroSmaxY/PrimeFactorsScript/assets/127573080/76012d6d-8ad2-43bc-a076-053501c65afc)
+
