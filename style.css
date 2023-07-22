@@ -3,13 +3,15 @@ body {
   font: normal 20pt Arial;
   color: white;
 }
+
 header {
   text-align: center;
   font: bold 25pt Arial;
   margin-top: 200px;
   margin-bottom: 25px;
 }
-.bloco {
+
+.block {
   background-color: white;
   width: 500px;
   min-height: 200px;
@@ -22,12 +24,15 @@ header {
   align-content: center;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.295);
 }
+
 h1 {
   font: bold 15pt Arial;
 }
+
 input {
   font: normal 12pt Arial;
 }
+
 footer {
   font-style: italic;
   text-align: center;
