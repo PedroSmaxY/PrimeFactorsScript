@@ -1,6 +1,6 @@
 # PrimeFactorsScript
 
-You can check this web application clicking <a href="https://pedrosmaxy.github.io/PrimeFactorsScript/">HERE.</a>.
+You can check this web application clicking <a href="https://pedrosmaxy.github.io/PrimeFactorsScript/">HERE.</a>
 
 Initial menu:
 
